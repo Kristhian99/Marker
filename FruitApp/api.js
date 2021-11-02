@@ -1,5 +1,5 @@
 //To use the Rest Api you have to change the Ip adress in the variable  
-const Api='http://192.168.1.151:8080/api/vi/'
+const Api='http://192.000.0.000:8080/api/vi/'
 
 export const getFruits = async() =>{
     const res = await fetch(Api+"marker",{method: 'GET'})
