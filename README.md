@@ -2,11 +2,12 @@
  
  This project pretends to give an application that shows information to the users about the disponibility of some kind of fruits in different cities of France. Also, this application provides some functionalities to the administrator of the store which are protected by a login interface. The project makes use of React-Native for the development of the application, Spring-Boot, and Java for the Back-end and to store the information MongoDB 
 
- To get the application -> 
+ To get the compile application ->
+ To get the code ->  
  
 ## Starting 🚀
 
-The project is divided into two parts, the Back-End with the database and the Application (Market), those parts are localized into FruitApi and FruitApp respectively.
+The project is divided into two parts, the Back-End with the database and the Application (Market),those parts are localized into FruitApi and FruitApp respectively.
 
 
 
@@ -98,7 +99,7 @@ So now you have to modify the api.js file, so you can find this file in this rou
 The first line of the file in which you have to edit:
 
 ```
-const Api='http:// IPv4Address:8080/api/vi/'
+const Api='http://IPv4Address:8080/api/vi/'
 
 ```
 The  IPv4 Address is where you have to type your IP address, save the file.
@@ -110,6 +111,10 @@ Finally, to start the application, since your command prompt you have to move to
 ```
 From there you only need to execute the command
 
+```
+npm install yet
+```
+and 
 ```
  npm start 
  
@@ -134,10 +139,4 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 
-* **Cristhian Cocoletzi** - *Developer* - [villanuevand](https://github.com/villanuevand)
-
-
-
-
-
-
+* **Cristhian Cocoletzi** - *Developer* - [Kristhian99](https://github.com/Kristhian99)
